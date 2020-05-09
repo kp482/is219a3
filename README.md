@@ -77,3 +77,4 @@ d.	A screen shot of the browser console showing the XHR network request made fro
 4. Setup docker in WebStorm
 5. Right click the docker-compose.yml file and run it from the project explorer
 6. Setup Gulp in WebStorm
+"# is219a3" 
